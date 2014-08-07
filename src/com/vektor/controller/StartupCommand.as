@@ -1,8 +1,6 @@
 package com.vektor.controller
 {
-//	import com.vektorModule;
 	import com.vektor.view.ApplicationMediator;
-//	import com.vektor.pipes.MainJunctionMediator;
 	import com.vektor.model.DataProxy;
 	
 	import org.puremvc.as3.interfaces.ICommand;
